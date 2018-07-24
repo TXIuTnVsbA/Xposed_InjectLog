@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">debuger</string>
+    <string name="xposedDescription">Debuger</string>
+</resources>
